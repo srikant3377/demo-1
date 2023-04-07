@@ -1,0 +1,44 @@
+h1 {
+    color: red;
+}
+h2 {
+    color: red;
+    font-style: italic;
+}
+.ol {
+    color: rgb(224, 60, 60);
+    line-height: 40px;
+}
+.sp {
+    text-decoration: line-through;
+    font-weight: bold;
+}
+.spp {
+    background-color: yellow;
+    font-weight: bold;
+
+}
+.un {
+    text-decoration: underline;
+    font-style: italic;
+}
+.ls {
+    letter-spacing: 7px;
+    color: brown;
+}
+.uu {
+    background: yellow;
+    letter-spacing: 5px;
+   
+}
+.pu {
+    color: rgb(170, 53, 32);
+}
+a {
+    font-style: italic;
+    text-decoration: none;
+    background: yellow;
+    color: red;
+    font-weight: bold;
+
+}
